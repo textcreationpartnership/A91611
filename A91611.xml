@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Quakers fiery beacon or, The shaking-ranters ghost : being a new relation, and further discovery of their strange and sudden agonies, trances, quakings, shakings, raptures, visions, apparitios [sic], conflicts with Satan, revelations, illuminations, instructions in new divine mysteries, and seraphicall divinity; their several callings, missions, messages, orders, sects, places, and persons; their inchanted potions, ribbons, and bracelets; their declaration in Westminster-Hall, touching Heaven and Hell : and a narrative of their present actings and extasies, for the sweeping away of our good fundamental laws like so many old cobwebs.</title>
+         </titleStmt>
+         <extent>Approx. 13KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A91611</idno><idno type="EEBO-CITATION">99869175</idno>
+  <idno type="VID">170603</idno>
+  <idno type="EEBO-PROQUEST">2240952313</idno>
+  
+            <idno type="STC">Wing Q25</idno>
+            <idno type="STC">Thomason E844_13</idno>
+            <idno type="STC">ESTC R210369</idno>
+            <idno type="PROQUEST">99869175</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99869175e"/>
+            <note>(EEBO-TCP ; phase 2, no. A91611)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 170603)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 248:E844[13])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Quakers fiery beacon or, The shaking-ranters ghost : being a new relation, and further discovery of their strange and sudden agonies, trances, quakings, shakings, raptures, visions, apparitios [sic], conflicts with Satan, revelations, illuminations, instructions in new divine mysteries, and seraphicall divinity; their several callings, missions, messages, orders, sects, places, and persons; their inchanted potions, ribbons, and bracelets; their declaration in Westminster-Hall, touching Heaven and Hell : and a narrative of their present actings and extasies, for the sweeping away of our good fundamental laws like so many old cobwebs.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for G. Horton,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1655.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>With title page woodcut.</note>
+                  <note>Annotation on Thomason copy: "June 24.".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Society of Friends --  Controversial literature --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:170603:1"/>
+            <p>THE QVAKERS Fiery BEACON: Or, The Shaking-Ranters GHOST: BEING A new Relation, and further Discovery of their strange and sudden Agonies, Trances, Quakings, Shakings, Ra<g ref="char:EOLhyphen"/>ptures, Visions, Apparitions, Conflicts with Satan, Revelations, Illuminations, Instructions in new divine Mysteries, and sera<g ref="char:EOLhyphen"/>phical Divinity; their several Callings, Missions, Messages, Or<g ref="char:EOLhyphen"/>ders, Sects, Places, and Persons; their inch<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nted Potions, Rib<g ref="char:EOLhyphen"/>bons, and Bracelets; their Declaration in Westminster-Hall, touching Heaven and Hell: And a Narrative of their present Actings and Extasies, for the sweeping away of our good Fun<g ref="char:EOLhyphen"/>damental Laws like so many Old Cobwebs.</p>
+            <figure>
+               <figDesc>woodcut of of barefoot, robed, bearded man</figDesc>
+            </figure>
+            <p>London, Printed for G. Horton, 1655.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:170603:2"/>
+            <pb n="3" facs="tcp:170603:2"/>
+            <head>THE QVAKERS BEACON fired; Or, their extravagant Agonies, strange Raptures, Visions, Trances, Illuminations, Apparitions, di<g ref="char:EOLhyphen"/>vine mysteries, and seraphicall Divinity, detect<g ref="char:EOLhyphen"/>ed and condemned, &amp;c.</head>
+            <p>
+               <seg rend="decorInit">T</seg>Here is a progeny of mankind, or parentage of peo<g ref="char:EOLhyphen"/>ple, that have born forth unto the world that un<g ref="char:EOLhyphen"/>comfortable Fraternity of Quakers and Ranters: These brethren in iniquity, are now in a state of de<g ref="char:EOLhyphen"/>sperate apostacy, who were once a people of most blessed principles, and great attainments; but now fallen off from the Gospel love, matchless beauty, and lively efficacy of the sacred
+<pb n="4" facs="tcp:170603:3"/> Scriptures, despising the Ministers of the Word, and casting their fire-bals against them, rather choosing to eradicate then build the F<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>brick; as evidently appears by the preposterous ways of many of them, which like a st<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ong gust of wind, violently <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>u<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ns about the Wind-mill of their affections, having no setled Tenets, but each Vulture-l<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ke, gnawing upon the invented prey of his own brain-sick Fancy, whirling about, being dislocated from the true Centre; otherwise, surely, they could not have had the impudence to have come into Westminster-Hall (no long since) and there affi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>m in the face of Authori<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y, 1 That the Scriptures in the Old and New Testament is not the Word of the Lord. 2 That the Scriptures are not the true light for Salvation. 3 That all men are inlightened with the true Lig<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t, and it is not confined to the Elect only. 4 That we are not just f<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d by Faith in Christ, without Wo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ks in the Justi<g ref="char:EOLhyphen"/>fication. 4 That there are no such places as Heaven and Hell, in which our bodies after they have rotted in the Grave, shall be rai<g ref="char:EOLhyphen"/>sed up again and live to Eternity in. 6 That our bodies which die, and are buried, and turn to dust, shall not be raised any more to life afterwards. <hi>Monstrous times!</hi> And to the end, they may not lose any of their Atheistical Proselites, several Letters are sent to re<g ref="char:EOLhyphen"/>mote places (which <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hey term a fi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ry Beacon) to fore-warn them from being seduced, and prevent a falling off, as M<seg rend="sup">r</seg> Gilpin did, who since his Conversion, having set forth a book, fully discovering their abominable wayes and pr<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ctises, is now falsly branded for a l<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>c<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ntious Liver, by a Declaration of one Dring a Quaker, which Paper is inte<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>la<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ded with such notorious untruths, that it is fit for nothing but the Faggot; and therfore we shall wave it: Surely, the Devil of <hi>Delpho's</hi> never thought himself more wise in Oracles of State, then these Fire-brands did in their new birth, when they had fur<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>her principles added unto their Ranting appr<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hensions, hold<g ref="char:EOLhyphen"/>ing forth — 1 That is God in all things, and all things in God. 2 That God is all in all in them, and they all in him, and then by consequence they are not themselves, neither can do any thing of themselves, but God acteth, and doth all in them, and by them. 3 That God acting all in them, will act nothing against himself, &amp; all that he doth must be good; and therefore whatsoever they do
+<pb n="5" facs="tcp:170603:3"/> must be good, because they are acted thereunto of God; and to the pure all things are pure, &amp;c. These <hi>Ranters</hi> are the most unworthy of all sorts of creatures that ever were known, who dare presume to justifie their ungodly deeds and actings, accounting them per<g ref="char:EOLhyphen"/>fect, pure, and good, a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> being done of G<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d. There were a people de<g ref="char:EOLhyphen"/>luded, and acted after the very same manner as these, in the dayes of the Apostles; for such were they whom S<seg rend="sup">t</seg> Peter and Jude speak of, 2 <hi>Pet.</hi> 2.2. <hi>Jude</hi> the beginning to <hi>v</hi> 20. Most of all those Apostates in the days of the Apostles were acted like unto these <hi>Ranters</hi> now; or else as meer worldlings, like unto <hi>Dema<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi> forsaking all former professions of the Faith and Gospel, to embrace this present world. And doubtless, those of these Times are of so unparallel'd a functi<g ref="char:EOLhyphen"/>on, that they may very well be termed to <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of the same Race as <hi>Lurchers</hi> and <hi>Tumblers,</hi> who seek their Game naturally; but in one sence, by the Divels inspiration, and withall, a Litter of Beagles li<g ref="char:EOLhyphen"/>neally descended, their sick-brain phantismes being over-fuming with new Lights, like qualms from a queasie stomack; and their fa<g ref="char:EOLhyphen"/>ctious Noddles perpetually boyling over with some of Grand Plu<g ref="char:EOLhyphen"/>tors Quodlibets, which hath so free a Current in blood am<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ngst them, that they out-tilt the subtile Jesuits, and pitch a bar beyond the learned School men, each simple Dotterel conceiving himself infallible.</p>
+            <p>Nay more, by the vertue of <hi>Hocus,</hi> they can knock all old frames in pieces, and blow up a new one in an instant, as they do bottles at the Glass-house; and all this without the help of Reason: <hi>Something rare, though mighty confused!</hi> And under favour, thou M. <hi>Quaker,</hi> let me query; Art not thou one of those that would sweep down our Fundamental Laws like old Cobw<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>bs, and never trou<g ref="char:EOLhyphen"/>ble thy head with new ones, but say the <hi>Judicial</hi> is best; so that if our <hi>Barresters</hi> mean to have trading, they must be bound Prentice to <hi>Moses;</hi> which is a rare device to turn our selves Jewes, that we may convert those, who desire a generall Community, according to the Creation, saying, they will forsake all to take up the Cross of Christ, and yet fain would leap into a fifth Monarchy of their own erection, where they cannot want followers, because every man is to rule there, and none to obey, but we shall all be Princes.</p>
+            <pb n="6" facs="tcp:170603:4"/>
+            <p>Did you ever know a people act through a more glorious shew of Righteousness then these men do, who say they will cast off the world, and all the care and pains thereof, for <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hrists sak<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> (as they say) and their father, mother, wife and children: O what a fair co<g ref="char:EOLhyphen"/>lour hath this; yet extreamly obscure and foul, by Satans trans<g ref="char:EOLhyphen"/>forming himself into an Angel of Light.</p>
+            <p>Nay more, their enduring so much affl<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ction, opposition, perse<g ref="char:EOLhyphen"/>cution, and disgrace from men, Is not this like the Cross of Christ? and like the sufferings of Christ and his Apostles? Their running and travelling so many miles from place to place, and speaking so boldly unto great men, crying out against their abominations, Doth not this bl<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ze abroad mightily in the eyes of the world? And their plausible Letters, and plain dealing with men, carryeth a fair shew of holiness; and yet they fly from h<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Congrega<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ion or pub<g ref="char:EOLhyphen"/>like meeting to the Church on the Lords day, as scorning to enter such p<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ophane Steeple-houses, or accompany amongst such known fi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ne<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s, saying as the people did of old; We avoid the general As<g ref="char:EOLhyphen"/>semblies because they are sinners; contrary to Christs example, who accompanied amongst Prodigals and Harlots. <hi>Jo.</hi> 15.1, 2. <hi>Jo.</hi> 18 30. and contrary to the express words of the Bible, <hi>Heb</hi> 10.22, 23, 24, 25. And doth not the Spirit in another place hold out unto us, that the godly and the wicked cannot (neither ought) to be se<g ref="char:EOLhyphen"/>parated until the Lord doth send his Reapers (the blessed Angels) who shall divide <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he one from the other? <hi>Mat.</hi> 13.24, 29, 30 <hi>verses.</hi>
+            </p>
+            <p>In a word, these people (if you obs<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rve them well) are such a people that would seem to be very blameless in their whole Car<g ref="char:EOLhyphen"/>riage; and because they will not use a labour, pains, or care, which they suppose to be evil, they will neglect that which is honest, just, and good; and in a vain shew of will-worship in neglecting th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ir bodies, seem to go beyond the very Servants and Ministers of <hi>Jesus Christ.</hi>
+            </p>
+            <p>I shall amplifie no more then this; That when the D<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>vil hath transformed himself into an Angel of Light, and his Ministers into Ministers of Righteousne<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s, he wil not let them rest there (reckon<g ref="char:EOLhyphen"/>ing that to be too low an honour for such faithful friends) but wil advance them even to become false Apostles, being transformed in<g ref="char:EOLhyphen"/>to
+<pb n="7" facs="tcp:170603:4"/> the Apostles of Christ, and then they shall be qualified fit for their attainments, and made able to do deceitful works.</p>
+            <p>Here let all persons note by the way how methodical Antichrist is in his School; first he will make them his Ministers, and after<g ref="char:EOLhyphen"/>wards they shalbe made like the Apostles of Christ; here is his sub<g ref="char:EOLhyphen"/>tilty in his gradations, he hath not j<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>dged it safe for <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>im to begin too high for fear of being discovered, but doth walk softly, and so for himself more safely, like as though he had lea<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ned that Philo<g ref="char:EOLhyphen"/>sophical Maxime, <hi>Violentus motus nunquam diuturnus.</hi> This master<g ref="char:EOLhyphen"/>piece of work is yet behind, I mean his making these creatures mechanical able to do deceitful works with their hands, as the A<g ref="char:EOLhyphen"/>postle did by laying their hands upon the sick, &amp;c. And although these actings of Antichrist may seem lovely to some, yet happy are they who are hid from it, considering the exigencie thereof.</p>
+            <p>To conclude, It is the observation of many learned intelligent Protestants, who have most pried into the Opinions and Practises of all our late new Sects, That their ways and actings, are interlar<g ref="char:EOLhyphen"/>ded and mixed with some Jesuitical and Popish Tenents, Opini<g ref="char:EOLhyphen"/>ons, and Ceremonies; by which we way as visibly discover a Popish Priest, or a Fryer in them, as we may a Lyon by his paw. And no<g ref="char:EOLhyphen"/>thing more cleerly d<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tects them to be the principal Inventers and Rulers amongst ou<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Quakers, then their pretended sudden extra<g ref="char:EOLhyphen"/>vagant Agonies, Tra<gap reason="illegible" resp="#keyers" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>s, Quakings, Shakings, Raptures, Visions, Apparitions, C<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nfl<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>cts with Satan, Revelations, Illuminations, in<g ref="char:EOLhyphen"/>structions in n<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap> divine Mysteries and seraphical Divinity, wherof they pretend they were wholly ignorant of before, being illiterate persons; their intimate familiari y and communion with God and Christ, in and a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t r t<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eir agonies, and extasies; their extraordinary callings, missions, m<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ssages, to such and such particular orders, pla<g ref="char:EOLhyphen"/>ces, and persons; their sudden speaking, and strange languages g<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t by inspiration: all whi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h are the very same in form and substance with those ridiculous l<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ng Enthusiasm<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Impostures, Cheats, Ago<g ref="char:EOLhyphen"/>nies, &amp;c. of Popish S<gap reason="illegible" resp="#keyers" extent="5 letters">
+                  <desc>•••••</desc>
+               </gap>, Freers, Priests, Jesuits, Nuns, recorded in the lying Lege<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> a<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap> lies of their Romish Canonized Saints, by <hi>Capgrave, Surious, Lippomanes,</hi> and others of their Fraternity.</p>
+            <pb n="8" facs="tcp:170603:5"/>
+            <p>And though they conceal their Jesuitism and grossest points of Popery from their Disciples at first, baiting their hooks onely with pleasing Novelties, shews of Superlative Sancti<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y, and invectiues a<g ref="char:EOLhyphen"/>gainst the Ministers, Ordinances, Church, Tythes, Presbyterian go<g ref="char:EOLhyphen"/>vernment, and the like; that so they may the more easily catch the silly people; yet they discover their Jesuitical positions, &amp; Popish Doctrines more openly by degrees, at last, crying them up for new Gospel Light amongst the ignorant vulgar, and crying down our Churches, Sacraments, the Articles of our Creed, Gods Ten Com<g ref="char:EOLhyphen"/>mandements, and the Lords Prayer. And it is evident by some lat<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> instances, that they are Anti-magistratical, as well as Anti minist<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>rial: yea, that these Quakers use inchanted Potions, Bracelets, Sor<g ref="char:EOLhyphen"/>cery, and Witchcraft, eo intoxicate their Novices, and draw them to their party; As Simon Magus bewitched the people of Samaria with his Sorceries, <hi>Act.</hi> 6.9, 11. and other seducing false Teachers, bewitched the foolish Galatians, that they should not obey the truth, <hi>Gal.</hi> 3.1.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
